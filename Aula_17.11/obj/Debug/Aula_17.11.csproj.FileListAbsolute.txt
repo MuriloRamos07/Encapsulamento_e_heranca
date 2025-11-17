@@ -1,0 +1,8 @@
+C:\Users\DTG-2025\Desktop\Encapsulamento e Herança\Encapsulamento_e_heranca\Aula_17.11\bin\Debug\Aula_17.11.exe.config
+C:\Users\DTG-2025\Desktop\Encapsulamento e Herança\Encapsulamento_e_heranca\Aula_17.11\bin\Debug\Aula_17.11.exe
+C:\Users\DTG-2025\Desktop\Encapsulamento e Herança\Encapsulamento_e_heranca\Aula_17.11\bin\Debug\Aula_17.11.pdb
+C:\Users\DTG-2025\Desktop\Encapsulamento e Herança\Encapsulamento_e_heranca\Aula_17.11\obj\Debug\Aula_17.11.csproj.AssemblyReference.cache
+C:\Users\DTG-2025\Desktop\Encapsulamento e Herança\Encapsulamento_e_heranca\Aula_17.11\obj\Debug\Aula_17.11.csproj.SuggestedBindingRedirects.cache
+C:\Users\DTG-2025\Desktop\Encapsulamento e Herança\Encapsulamento_e_heranca\Aula_17.11\obj\Debug\Aula_17.11.csproj.CoreCompileInputs.cache
+C:\Users\DTG-2025\Desktop\Encapsulamento e Herança\Encapsulamento_e_heranca\Aula_17.11\obj\Debug\Aula_17.11.exe
+C:\Users\DTG-2025\Desktop\Encapsulamento e Herança\Encapsulamento_e_heranca\Aula_17.11\obj\Debug\Aula_17.11.pdb
